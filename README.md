@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bernardograssi" target="blank"><img src="https://img.shields.io/twitter/follow/bernardograssi?logo=twitter&style=for-the-badge" alt="bernardograssi" /></a> </p>
 
-- 🔭 I’m currently working on **Snap Inc.**
+- 🔭 I’m currently working at **Snap Inc.**
 
 - 🌱 I’m currently learning **Go**
 
